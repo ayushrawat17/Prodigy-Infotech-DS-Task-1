@@ -1,6 +1,6 @@
 # Prodigy-Infotech-DS-Task-!
 
-<img width="742" alt="ds1" src="https://github.com/user-attachments/assets/107e84ae-3b75-43ae-9442-b63aa1d73214" />
+
 
 <br>
 <img src="https://github.com/kindo-tk/PRODIGY_DS_01/blob/main/ds1.png"   >
